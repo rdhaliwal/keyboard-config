@@ -1,6 +1,8 @@
 # Configuring the keyboard
 
-- Configure the keymap on the website tool: https://drop.com/mechanical-keyboards/configurator/config/16907
+- Configure the keymap on the website tool: 
+  - https://drop.com/mechanical-keyboards/configurator
+  <!-- - https://drop.com/mechanical-keyboards/configurator/config/16907 -->
 - Hit the compile and download in the top right
   - This will be a download named something like `massdrop_ctrl_config_ctrl__default_16907.bin`
 - Download the latest loader files:
